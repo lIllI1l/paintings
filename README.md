@@ -1,2 +1,2 @@
-# paintings
+# paintjs
 painting board
